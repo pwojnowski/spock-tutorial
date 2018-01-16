@@ -1,2 +1,1 @@
-# spock-tutorial
-Spock Framework Tutorial
+# The code for [Spock Framework Tutorial at farenda.com](http://farenda.com/spock-framework-tutorial)
